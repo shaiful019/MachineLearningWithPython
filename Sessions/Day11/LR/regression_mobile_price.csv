@@ -1,0 +1,895 @@
+weight_g,SIM,display_type,display_resolution,display_size_ppi,OS,CPU,memory_card,internal_memory_GB,RAM_GB,primary_camera,secondary_camera,battery,approx_price_EUR
+260,Dual,IPS,7,210,Marshmallow,Quad-core,128,16,2,13,2,3400,170
+169,Dual,IPS,5.5,401,Marshmallow,Octa-core,256,32,3,13,5,4080,250
+166,Single,IPS,5.5,267,Lollipop,Octa-core,32,32,3,13,13,4020,230
+125,Dual,IPS,5,294,Marshmallow,Quad-core,32,8,1,8,5,2000,110
+353.8,Single,IPS,8,283,Lollipop,Quad-core,256,32,2,5,2,4420,350
+540,Single,IPS,10.1,224,Lollipop,Quad-core,256,16,2,5,2,5910,250
+508,Single,IPS,10.1,149,KitKat,Quad-core,256,16,1,5,2,5910,190
+508,Single,IPS,10.1,224,KitKat,Quad-core,256,32,2,5,2,5910,230
+118,Dual,TFT,5,187,KitKat,Quad-core,32,8,1,8,2,2000,130
+120,Dual,Capacitive,4,233,Lollipop,Dual-core,32,8,1,5,2,1300,90
+145,Dual,IPS,4.5,245,KitKat,Quad-core,32,8,1,5,2,2000,130
+116,Dual,IPS,5,294,Lollipop,Octa-core,32,16,2,13,5,2300,200
+150,Dual,IPS,5,294,KitKat,Quad-core,32,4,1,8,2,2000,150
+164,Single,IPS,5.7,258,KitKat,Octa-core,32,16,2,13,2,2700,260
+360,Single,IPS,8,283,KitKat,Quad-core,32,16,2,5,2,4600,200
+380,Single,IPS,7.9,162,Jelly Bean,Dual-core,32,16,1,5,2,4000,130
+229,Single,IPS,6,368,Jelly Bean,Quad-core,64,16,2,13,2,3300,340
+195,Dual,TFT,5.7,258,Jelly Bean,Quad-core,32,8,1,8,2,2400,320
+140,Dual,IPS,4.5,245,Jelly Bean,Quad-core,32,4,1,8,2,2000,180
+777,Single,TFT,10.1,149,Ice Cream Sandwich,Quad-core,32,16,1,5,1,9800,250
+680,Single,TFT,10.1,149,Ice Cream Sandwich,Quad-core,32,16,1,5,1,9800,230
+730,Single,Capacitive,10.1,149,Ice Cream Sandwich,Dual-core,32,16,1,5,2,3260,200
+450,Single,Capacitive,7,170,Ice Cream Sandwich,Dual-core,32,8,1,5,2,1530,100
+156,Dual,IPS,5,294,Marshmallow,Quad-core,256,16,2,13,5,2460,200
+163.9,Single,IPS,5.5,267,Marshmallow,Quad-core,256,16,2,8,5,2500,80
+140,Dual,Super AMOLED,5,294,Lollipop,Octa-core,256,16,2,13,5,2150,250
+148,Single,IPS,5,196,Marshmallow,Quad-core,32,8,1,8,5,2000,60
+295.1,Single,TFT,7,170,Marshmallow,Quad-core,32,8,1,5,2,3240,130
+149,Dual,AMOLED,5.5,534,Marshmallow,Octa-core,256,32,3,16,8,3000,350
+179,Dual,IPS,6,184,Lollipop,Quad-core,64,8,1,13,8,2580,120
+174,Dual,TFT,5.5,267,Lollipop,Quad-core,256,8,1,5,2,2500,120
+167,Dual,TFT,5,196,Lollipop,Quad-core,32,8,1,5,5,2000,110
+173,Single,IPS,5.5,267,Lollipop,Quad-core,32,16,2,8,2,2500,130
+140,Dual,IPS,5,294,Lollipop,Octa-core,256,16,2,13,5,3000,230
+147,Dual,Capacitive,5.5,267,KitKat,Octa-core,32,16,2,13,8,3500,130
+380,Single,IPS,9.6,157,Lollipop,Quad-core,32,8,1,5,2,4600,250
+327,Single,IPS,8,189,KitKat,Quad-core,32,8,1,5,3,4100,250
+310,Single,IPS,8,283,KitKat,Octa-core,32,8,2,5,2,4060,280
+182,Dual,IPS,5.9,249,Jelly Bean,Quad-core,32,8,1,8,2,3400,280
+126,Single,IPS,5,294,KitKat,Quad-core,32,8,1,8,1.3,2150,280
+189,Dual,IPS,5.5,200,Jelly Bean,Quad-core,32,4,1,8,2,2500,140
+110,Single,IPS,4.7,312,Jelly Bean,Dual-core,32,4,1,8,1.3,2000,160
+130,Dual,IPS,5,441,Jelly Bean,Quad-core,32,8,2,13.1,2.1,2000,370
+109,Dual,IPS,4.66,236,Jelly Bean,Dual-core,32,4,1,8,2,1800,230
+135,Single,IPS,5,294,Jelly Bean,Quad-core,32,4,1,8,1.3,2500,350
+144,Dual,AMOLED,5.5,401,Marshmallow,Octa-core,256,64,4,16,8,3000,450
+209.8,Dual,AMOLED,6,367,Lollipop,Octa-core,256,64,3,13,5,5020,420
+147.6,Dual,AMOLED,5.5,267,Lollipop,Octa-core,256,32,3,13,5,3150,300
+128,Dual,IPS,5,294,Lollipop,Quad-core,256,16,3,13,5,2350,200
+128,Dual,IPS,5,294,Lollipop,Quad-core,256,16,2,13,5,2350,180
+137,Dual,IPS,5,294,Lollipop,Quad-core,256,16,1,8,5,2400,160
+155.3,Dual,AMOLED,5.5,267,Lollipop,Octa-core,256,16,3,13,5,3150,300
+155.3,Dual,AMOLED,5.5,267,Lollipop,Octa-core,256,16,1,13,5,3150,250
+143,Dual,AMOLED,4.7,312,Lollipop,Quad-core,256,16,1,8,5,2000,200
+153,Dual,IPS,5,294,Lollipop,Quad-core,256,16,1,5,2,2000,120
+200,Dual,IPS,5,294,Lollipop,Quad-core,256,16,2,8,5,4000,170
+154,Dual,IPS,5,294,Lollipop,Quad-core,256,8,1,8,5,3140,100
+212,Dual,AMOLED,5.5,267,Lollipop,Quad-core,128,16,2,13,5,6000,300
+156.5,Dual,IPS,4.5,218,Lollipop,Quad-core,32,16,1,5,2,4000,140
+130,Dual,IPS,5,294,Lollipop,Octa-core,32,16,2,13,5,2100,240
+135.5,Dual,IPS,4.5,218,Lollipop,Quad-core,32,8,1,8,2,1850,140
+204.4,Dual,AMOLED,6,490,Lollipop,Octa-core,256,64,3,24,8,3500,490
+149.7,Dual,IPS,5,294,KitKat,Octa-core,32,8,1,8,2,1920,230
+146.4,Dual,IPS,5.5,267,KitKat,Hexa-core,32,8,1,8,2,2400,230
+143.5,Dual,IPS,5,294,Jelly Bean,Quad-core,32,16,2,13,5,2500,310
+374,Single,IPS,7.9,162,Jelly Bean,Quad-core,32,8,1,5,2,4000,190
+131.9,Dual,TFT,4.65,316,Jelly Bean,Quad-core,32,4,1,8,1,2100,220
+143,Dual,IPS,4.7,234,Jelly Bean,Quad-core,32,8,1,8,2,1800,200
+124.9,Dual,IPS,4.7,312,Jelly Bean,Quad-core,32,4,1,8,2,1800,230
+176.9,Dual,TFT,5.3,208,Jelly Bean,Quad-core,32,4,1,8,1,3000,230
+140.7,Dual,IPS,4.5,245,Jelly Bean,Quad-core,32,4,1,8,1,2100,170
+131.3,Dual,Super AMOLED,4.65,316,Ice Cream Sandwich,Dual-core,32,4,1,8,1,2100,200
+193,Dual,IPS,5.5,401,Marshmallow,Octa-core,256,64,4,20.7,8,2700,250
+160,Dual,IPS,5,294,KitKat,Quad-core,256,8,1,8,2,2700,150
+142,Dual,IPS,5,440,KitKat,Octa-core,256,16,2,16,8,1700,200
+232,Dual,IPS,6.4,229,Jelly Bean,Quad-core,32,4,1,8,2,2000,240
+140,Dual,IPS,5,294,Jelly Bean,Octa-core,32,8,1,8,2,1400,240
+160,Single,IPS,5,294,Jelly Bean,Quad-core,32,8,1,8,2,1850,280
+120,Dual,IPS,5,294,Marshmallow,Quad-core,256,16,2,13,5,5000,150
+175,Dual,IPS,5.2,282,Nougat,Octa-core,256,32,3,13,8,7800,230
+490,Dual,IPS,9.7,264,Marshmallow,Hexa-core,256,32,4,8,5,3300,450
+270,Dual,IPS,6.9,172,Lollipop,Quad-core,256,8,1,5,2,4680,120
+320,Single,IPS,7.9,324,Marshmallow,Hexa-core,256,32,4,8,2,2600,390
+150,Dual,IPS,5,294,Marshmallow,Quad-core,256,16,2,13,5,4100,130
+151,Dual,IPS,5.5,401,Nougat,Octa-core,256,64,4,16,8,7800,440
+490,Single,IPS,9.7,264,Marshmallow,Hexa-core,256,32,3,8,5,341,360
+135,Dual,IPS,4.5,218,Marshmallow,Quad-core,256,8,1,8,2,2070,110
+160,Dual,IPS,5.5,267,Lollipop,Quad-core,64,16,2,8,5,2500,150
+153,Dual,IPS,5,294,KitKat,Quad-core,32,16,2,8,5,1600,110
+140,Dual,IPS,5,294,Lollipop,Quad-core,64,16,2,8,2,400,230
+170.1,Dual,IPS,5.5,401,Marshmallow,Octa-core,256,16,3,13,5,3000,180
+185,Single,IPS,5.5,401,Marshmallow,Quad-core,256,32,4,13,5,4000,500
+135,Dual,IPS,5,294,Lollipop,Quad-core,64,8,2,8,2,5000,130
+202,Dual,IPS,5.5,267,Marshmallow,Quad-core,64,8,2,13,5,3000,170
+170,Dual,IPS,5.5,401,Marshmallow,Quad-core,256,64,4,13,5,3000,500
+190,Dual,IPS,6,367,Marshmallow,Octa-core,256,16,2,13,5,3000,300
+190,Dual,IPS,6,245,Marshmallow,Octa-core,256,16,2,13,5,3000,360
+140,Dual,TFT,5,294,Marshmallow,Quad-core,256,8,2,8,5,2400,200
+272,Single,IPS,7,216,Lollipop,Quad-core,256,16,2,8,2,2500,160
+155,Single,IPS,5,294,Lollipop,Dual-core,64,16,2,8,2,3000,180
+170,Dual,IPS,5.5,267,Marshmallow,Quad-core,256,16,2,13,5,3000,250
+299,Single,IPS,7,216,Lollipop,Quad-core,64,8,2,5,2,2100,220
+269,Single,IPS,7,323,KitKat,Quad-core,64,16,2,5,2,2110,240
+150,Single,IPS,5,441,KitKat,Quad-core,64,16,2,13,2,2300,320
+150,Single,IPS,5,441,Marshmallow,Quad-core,64,16,2,13,2,2400,250
+145,Single,IPS,5,441,Jelly Bean,Quad-core,64,16,2,13,2,1820,510
+196,Dual,IPS,6,245,Lollipop,Dual-core,64,16,2,13,2,3300,200
+196,Dual,IPS,6,245,Lollipop,Dual-core,64,16,2,13,2,2110,250
+145,Dual,IPS,5,294,Lollipop,Dual-core,64,8,2,8,2,2110,120
+145,Dual,IPS,5,294,Lollipop,Dual-core,64,8,2,8,2,1200,130
+145,Single,IPS,5,441,Lollipop,Quad-core,64,16,2,13,2,5070,730
+522,Single,IPS,10.1,149,Jelly Bean,Quad-core,64,8,1,2,1.2,3950,250
+350,Single,IPS,8,189,Jelly Bean,Quad-core,64,16,1,5,1.2,3950,150
+328,Single,IPS,7,216,KitKat,Dual-core,32,8,1,5,1.2,3200,220
+585,Single,IPS,10.1,299,Jelly Bean,Quad-core,64,32,2,5,1.2,6760,400
+302,Single,IPS,7,216,Jelly Bean,Quad-core,32,16,1,5,1.2,4270,130
+580,Single,IPS,10.1,149,Jelly Bean,Quad-core,32,16,1,5,1.2,4270,230
+598,Single,IPS,10.1,224,Jelly Bean,Quad-core,32,32,1,8,2,4400,340
+680,Single,IPS,10.1,149,Ice Cream Sandwich,Dual-core,32,16,1,5,1.2,1300,280
+135,Single,IPS,5,294,KitKat,Quad-core,64,16,2,13,2,2100,100
+180,Single,IPS,4.5,433,Nougat,Octa-core,256,32,3,12,8,3000,600
+165,Single,AMOLED,5.5,534,Marshmallow,Quad-core,256,32,4,21,8,2610,530
+135,Single,IPS,5.2,424,Marshmallow,Octa-core,256,16,3,13,8,3410,270
+192,Single,AMOLED,5.4,540,Marshmallow,Hexa-core,256,32,3,18,2,2800,450
+152,Dual,IPS,5,441,Marshmallow,Octa-core,64,64,4,13,8,1400,170
+150,Dual,IPS,5,294,Lollipop,Quad-core,64,16,1,8,2,2000,80
+207,Dual,AMOLED,6,490,Lollipop,Octa-core,64,64,3,24,8,2050,310
+177,Dual,IPS,6,184,Lollipop,Quad-core,64,8,1,8,2,2500,110
+180,Dual,IPS,5,294,KitKat,Quad-core,64,8,1,8,2,2000,140
+154,Dual,IPS,5,294,Lollipop,Quad-core,64,8,1,8,2,2100,120
+177,Dual,IPS,6,367,KitKat,Quad-core,64,16,2,13,5,2200,210
+164,Single,IPS,5,294,KitKat,Quad-core,64,8,1,13,5,1850,150
+299,Single,Capacitive,7,170,KitKat,Dual-core,64,8,1,5,2,2000,130
+166,Dual,IPS,5,294,KitKat,Quad-core,64,4,1,8,2,2000,110
+136,Dual,IPS,5,294,KitKat,Octa-core,32,8,1,8,2,2500,150
+206,Dual,IPS,6,245,KitKat,Quad-core,32,4,1,8,2,1800,180
+155,Dual,IPS,5,220,Jelly Bean,Quad-core,64,4,1,8,2,2100,120
+166,Dual,IPS,5.5,200,Jelly Bean,Quad-core,64,4,1,8,2,3000,130
+404,Single,IPS,8,160,Jelly Bean,Quad-core,64,8,1,5,5,1800,360
+109,Dual,IPS,4.7,312,Jelly Bean,Quad-core,64,4,1,8,5,2000,130
+144,Dual,IPS,5,294,Jelly Bean,Quad-core,64,4,1,12,2,1800,140
+125,Dual,IPS,4.7,312,Jelly Bean,Quad-core,32,16,1,8,2,2020,200
+190,Dual,IPS,5.3,208,Jelly Bean,Quad-core,32,4,1,8,2,2000,130
+170,Dual,IPS,5,220,Jelly Bean,Quad-core,32,4,1,8,2,2000,130
+145,Dual,IPS,5,294,Jelly Bean,Quad-core,32,16,1,13,5,1800,230
+125,Dual,IPS,4.7,312,Jelly Bean,Quad-core,32,4,1,8,2,2200,180
+243,Single,IPS,5.7,258,Jelly Bean,Quad-core,32,4,1,8,1.3,1800,220
+130,Dual,Super AMOLED,4.65,316,Ice Cream Sandwich,Dual-core,32,4,1,8,1.3,6000,210
+158,Dual,IPS,5.2,424,Nougat,Octa-core,256,64,4,12,8,3100,370
+153,Dual,IPS,5.2,424,Nougat,Octa-core,256,32,3,16,8,3080,290
+140,Dual,Capacitive,5,294,Nougat,Quad-core,256,16,2,8,5,3080,160
+140,Dual,Capacitive,5,294,Nougat,Octa-core,256,16,2,13,5,3050,190
+145,Dual,IPS,5,441,Nougat,Octa-core,256,16,2,16,8,2850,300
+148,Dual,IPS,5,294,Nougat,Quad-core,32,16,2,13,5,3120,230
+115,Dual,IPS,4.5,245,Lollipop,Quad-core,64,8,1,8,5,7280,180
+470,Single,Capacitive,10.1,149,Lollipop,Quad-core,64,16,2,5,2,1800,230
+173.8,Single,IPS,4,233,Ice Cream Sandwich,Dual-core,32,16,1,8,1.3,1460,270
+181,Single,TFT,4.5,218,Lollipop,Quad-core,64,8,1,5,2,3000,340
+185,Single,IPS,4.7,234,Lollipop,Quad-core,64,16,1,8,2,1000,440
+149,Dual,IPS,5,294,KitKat,Quad-core,32,16,2,8,2,1500,120
+148,Dual,IPS,5,294,Marshmallow,Quad-core,64,16,3,13,8,4060,120
+148,Dual,IPS,5,294,Marshmallow,Quad-core,32,16,3,13,8,4070,210
+170,Single,IPS,5.5,267,Marshmallow,Quad-core,32,16,2,8,8,4010,110
+173.4,Dual,IPS,5.5,401,Marshmallow,Octa-core,128,32,4,13,8,2500,180
+143,Dual,IPS,5.5,267,Marshmallow,Quad-core,32,16,2,8,8,2500,180
+143,Dual,IPS,5.5,233,Marshmallow,Quad-core,32,16,3,8,8,2500,80
+163,Dual,IPS,5.5,267,Lollipop,Octa-core,32,16,3,13,5,3000,200
+168,Dual,IPS,5.5,401,Lollipop,Octa-core,64,16,3,13,5,2800,120
+170,Dual,IPS,5.5,401,Lollipop,Octa-core,64,64,4,13,5,2000,380
+125,Dual,IPS,5,294,Lollipop,Quad-core,64,8,1,8,2,1800,130
+120,Dual,IPS,4.7,312,Lollipop,Quad-core,32,16,2,8,5,2500,180
+142,Dual,IPS,5,294,Lollipop,Quad-core,32,16,3,13,5,1800,110
+158,Dual,IPS,5.5,200,Lollipop,Quad-core,32,8,1,8,2,1800,160
+119,Single,IPS,4.7,234,Lollipop,Quad-core,32,8,1,8,5,7000,150
+292,Single,IPS,8,189,Jelly Bean,Dual-core,32,16,2,5,2,4100,130
+150,Dual,IPS,5,294,Lollipop,Quad-core,32,8,1,8,5,2300,100
+150,Dual,IPS,5,294,KitKat,Quad-core,32,8,1,13,5,1400,190
+147,Dual,IPS,4.5,245,Jelly Bean,Quad-core,32,4,1,8,2,2000,200
+168,Dual,IPS,5,294,Jelly Bean,Quad-core,32,4,1,13,2,1900,220
+165,Dual,IPS,5,294,Jelly Bean,Dual-core,32,4,1,13,2,1700,260
+150.5,Dual,IPS,4.5,245,Jelly Bean,Dual-core,32,4,1,8,2,1500,220
+215,Dual,AMOLED,6,367,Marshmallow,Octa-core,256,64,6,12,8,4550,460
+182,Dual,AMOLED,5.5,401,Nougat,Octa-core,256,64,4,13,16,4000,280
+162,Dual,IPS,5.3,277,Marshmallow,Octa-core,256,32,4,13,8,7000,250
+160,Dual,IPS,5,294,Marshmallow,Quad-core,256,16,3,8,5,2300,210
+166,Dual,IPS,5.5,401,Nougat,Octa-core,256,32,3,13,8,6020,280
+170,Dual,IPS,5.5,401,Marshmallow,Octa-core,256,64,4,13,8,1800,390
+207.7,Single,IPS,4.2,350,Lollipop,Octa-core,256,64,4,16,5,3000,550
+147.2,Dual,AMOLED,5.5,401,Marshmallow,Octa-core,256,64,4,16,8,4000,450
+200,Dual,TFT,5.5,267,Lollipop,Quad-core,256,16,3,8,5,5020,340
+208,Dual,AMOLED,6,368,Lollipop,Octa-core,256,64,3,13,5,4000,420
+183,Dual,IPS,5,294,Lollipop,Quad-core,256,32,3,8,5,2000,170
+153,Dual,IPS,5,294,Lollipop,Quad-core,32,16,1,5,2,3150,90
+147,Dual,AMOLED,5.5,267,Lollipop,Octa-core,256,32,3,13,5,3150,290
+136.6,Dual,IPS,5,294,Lollipop,Quad-core,32,16,2,8,5,3500,130
+210,Dual,AMOLED,6,490,Lollipop,Octa-core,256,64,3,24,8,2400,480
+176,Dual,Super AMOLED,5,294,Lollipop,Quad-core,32,16,2,8,5,6020,220
+211,Dual,AMOLED,5.5,267,Lollipop,Quad-core,256,32,3,13,5,1800,330
+180.3,Dual,IPS,5,294,KitKat,Quad-core,256,8,1,8,2,2050,170
+150,Dual,TFT,5,196,KitKat,Quad-core,32,8,1,5,2,2300,120
+350,Single,IPS,7.86,326,KitKat,Quad-core,32,16,2,8,2,3000,390
+239,Dual,IPS,7,323,Jelly Bean,Quad-core,32,16,2,13,5,4100,400
+160,Dual,IPS,6,245,Jelly Bean,Quad-core,64,16,1,5,2,5680,270
+626,Single,Capacitive,10,151,Jelly Bean,Dual-core,32,16,1,5,2,4100,220
+170,Dual,Capacitive,5.7,513,Nougat,Quad-core,256,64,4,12,16,2500,750
+174,Single,Capacitive,5.5,534,Nougat,Octa-core,256,32,3,16,8,2200,570
+140,Dual,IPS,5,294,Marshmallow,Quad-core,256,16,2,13,5,3000,200
+165,Dual,IPS,5.5,400,Marshmallow,Octa-core,256,64,4,20,13,2700,460
+155,Dual,IPS,5.5,267,Marshmallow,Quad-core,256,32,3,13,5,2300,260
+153,Dual,Capacitive,5.5,267,Lollipop,Octa-core,256,32,3,13,5,2200,220
+142,Dual,IPS,5,294,Lollipop,Octa-core,256,32,3,13,5,2840,200
+158,Single,Capacitive,5,441,Lollipop,Octa-core,256,16,2,13,4,2800,390
+156,Dual,Capacitive,5.5,401,Marshmallow,Octa-core,256,32,3,13,4,2840,280
+158,Single,Capacitive,5,441,Marshmallow,Octa-core,256,16,2,13,4,3000,270
+161,Single,Capacitive,5.2,565,Nougat,Octa-core,256,32,3,12,5,3000,420
+161,Single,Capacitive,5.2,565,Nougat,Quad-core,256,32,4,12,5,2700,500
+155,Dual,Capacitive,5.5,267,Marshmallow,Quad-core,256,16,2,13,5,2200,240
+140,Dual,Capacitive,5,294,Marshmallow,Quad-core,256,16,2,13,5,2200,190
+140,Single,Capacitive,5,294,Marshmallow,Quad-core,256,16,1.5,8,5,2000,170
+140.1,Single,Capacitive,5,294,Lollipop,Quad-core,256,8,1.5,5,1.3,3000,70
+158,Single,Capacitive,5,441,Lollipop,Octa-core,256,16,2,13,4,2800,270
+165,Dual,Capacitive,5.5,267,Lollipop,Octa-core,256,16,2,13,4,2700,310
+161,Single,Capacitive,5.2,565,Marshmallow,Octa-core,256,32,3,20.2,13,2150,300
+143,Single,AMOLED,5,441,Nougat,Octa-core,256,16,2,13,4,2840,300
+168,Single,Capacitive,5.2,565,Lollipop,Octa-core,256,32,3,21,4,2000,480
+138.9,Single,Capacitive,5,294,Marshmallow,Quad-core,256,8,1,8,2,2000,190
+156,Single,Capacitive,4.7,234,Lollipop,Quad-core,256,8,1.5,8,2,2000,110
+155,Dual,Capacitive,5.2,565,Marshmallow,Octa-core,256,32,3,20,4,2600,340
+146,Dual,Capacitive,4.5,218,KitKat,Quad-core,32,8,1,8,2,2840,130
+150,Dual,Capacitive,5.5,534,Marshmallow,Octa-core,256,32,3,20,13,2800,320
+147,Dual,Capacitive,5.5,401,Marshmallow,Octa-core,256,16,2,13,4,2840,320
+157,Single,Capacitive,5,441,Nougat,Octa-core,256,32,3,20,4,2600,420
+155,Dual,Capacitive,5.5,267,KitKat,Octa-core,32,16,2,13,8,2000,370
+138,Dual,Capacitive,5,294,KitKat,Octa-core,32,8,1,13,5,2000,250
+154,Dual,Capacitive,4.7,234,KitKat,Octa-core,32,8,1,8,2,2600,160
+183,Dual,Capacitive,5.5,401,Marshmallow,Octa-core,256,16,2,13,4,2100,200
+160,Dual,Capacitive,5,294,KitKat,Octa-core,32,8,1,8,5,2100,190
+160,Dual,Capacitive,5,294,KitKat,Quad-core,256,8,1,8,5,6700,180
+154,Single,Capacitive,5.2,424,Marshmallow,Quad-core,256,16,2,13,13,2040,380
+155,Dual,TFT,5.5,267,KitKat,Quad-core,256,16,1,13,8,2600,260
+155,Dual,Capacitive,5.5,267,KitKat,Octa-core,256,16,2,13,8,2600,320
+155,Single,Capacitive,5.5,267,Marshmallow,Octa-core,256,16,2,13,8,2600,340
+137,Single,Capacitive,4.5,326,KitKat,Quad-core,256,16,1.5,13,5,2600,280
+160,Dual,Capacitive,5,220,Jelly Bean,Quad-core,32,4,1,5,2,2600,160
+145,Dual,Capacitive,5,441,Marshmallow,Quad-core,256,16,2,13,5,2110,420
+137,Single,Capacitive,4.5,326,KitKat,Quad-core,256,16,1,13,5,2000,250
+150,Dual,Capacitive,5,294,Jelly Bean,Octa-core,32,4,1,8,2,1300,180
+165,Dual,Capacitive,5.5,267,Marshmallow,Quad-core,256,8,1.5,13,5,2600,250
+165,Single,Capacitive,5.5,267,Marshmallow,Quad-core,256,8,1.5,13,5,2040,250
+143.5,Single,Capacitive,4.7,234,KitKat,Quad-core,256,8,1,8,1.3,2100,200
+130,Dual,Capacitive,4.3,217,Jelly Bean,Dual-core,64,8,1,8,2.1,2100,190
+149,Dual,Capacitive,5,220,Jelly Bean,Quad-core,64,8,1,8,2.1,2100,220
+149,Dual,Capacitive,5,220,Jelly Bean,Quad-core,64,8,1,8,2.1,2100,250
+217,Single,Capacitive,5.9,373,Lollipop,Quad-core,64,16,2,4,2.1,1650,370
+123,Dual,TFT,4.3,217,Jelly Bean,Quad-core,64,4,1,8,1.6,1800,180
+160,Single,Capacitive,5,441,KitKat,Quad-core,64,16,2,4,2.1,1230,300
+130,Dual,Capacitive,4.5,245,Jelly Bean,Quad-core,64,8,1,8,1.6,2000,290
+156,Dual,Capacitive,4.68,471,Lollipop,Quad-core,64,32,2,4,2.1,2300,300
+122,Single,Capacitive,4.3,217,Ice Cream Sandwich,Dual-core,32,8,1,5,1.6,1800,180
+122,Single,Capacitive,4.3,217,Jelly Bean,Dual-core,32,8,1,5,1.6,1620,200
+137,Single,AMOLED,4.3,256,Ice Cream Sandwich,Dual-core,32,16,1,8,1.3,1700,220
+132,Single,Capacitive,4,275,Ice Cream Sandwich,Dual-core,32,8,1,8,1.3,2000,270
+134,Single,IPS,4.7,312,Ice Cream Sandwich,Dual-core,32,16,1,8,1.3,2000,180
+170.1,Single,Capacitive,4.3,342,Ice Cream Sandwich,Dual-core,32,16,1,8,2,1620,160
+176.9,Single,Capacitive,4.5,245,Ice Cream Sandwich,Dual-core,32,16,1,8,1.3,1520,160
+172.9,Single,Capacitive,4.3,256,Ice Cream Sandwich,Dual-core,32,16,1,8,2,1620,180
+177,Single,TFT,4.5,245,Ice Cream Sandwich,Dual-core,32,16,1,8,1.3,1600,230
+170,Single,Capacitive,4.3,256,Ice Cream Sandwich,Dual-core,32,1,1,5,1.3,1520,150
+150,Dual,IPS,5,294,Marshmallow,Quad-core,128,16,2,13,5,3000,150
+150,Dual,IPS,5,294,Marshmallow,Quad-core,128,16,2,8,5,2200,160
+147,Dual,IPS,5.2,424,Nougat,Octa-core,256,16,3,12,8,2900,200
+145,Dual,AMOLED,5,293,Marshmallow,Octa-core,256,16,3,13,5,4800,200
+340,Single,IPS,8,283,Marshmallow,Octa-core,256,16,3,8,2,3340,230
+168,Dual,IPS,5.5,267,Marshmallow,Octa-core,128,16,2,13,8,5100,140
+160,Dual,IPS,5.5,401,Marshmallow,Octa-core,256,32,3,16,8,3020,420
+146,Dual,IPS,5,441,Nougat,Octa-core,256,32,3,12,8,6660,300
+219,Dual,Super AMOLED,6.6,443,Marshmallow,Octa-core,256,32,4,13,5,3000,440
+140,Dual,IPS,5,294,Lollipop,Quad-core,128,16,2,13,5,4100,120
+156,Dual,IPS,5.2,424,Nougat,Octa-core,256,16,2,13,8,2100,170
+150,Dual,Capacitive,4.5,218,Lollipop,Quad-core,32,8,1,5,2,2200,80
+135,Dual,IPS,5,294,Lollipop,Quad-core,32,8,1,8,2,3000,110
+160,Dual,IPS,5,296,Lollipop,Quad-core,256,16,2,13,5,6660,140
+135,Dual,IPS,5,294,Lollipop,Octa-core,256,16,2,13,5,4000,200
+167,Dual,IPS,5.5,401,Marshmallow,Octa-core,256,32,3,13,5,3000,280
+160,Dual,IPS,5,294,Lollipop,Quad-core,256,16,2,13,5,3450,190
+156,Dual,AMOLED,5.5,401,Marshmallow,Octa-core,256,32,3,13,8,3100,350
+157,Dual,IPS,5.2,424,Marshmallow,Octa-core,256,16,3,20,8,4800,300
+141.5,Dual,Capacitive,4.5,218,Lollipop,Quad-core,32,8,1,5,2,2000,110
+160,Dual,IPS,5,196,KitKat,Quad-core,32,4,1,8,2,2550,130
+162,Dual,IPS,5,294,Marshmallow,Octa-core,32,8,2,13,5,2200,170
+131,Dual,IPS,5,294,KitKat,Octa-core,256,16,2,13,5,2200,230
+131,Dual,IPS,5,294,Marshmallow,Octa-core,256,16,2,13,5,4360,170
+228,Dual,IPS,6.8,326,Marshmallow,Octa-core,64,64,3,13,5,2680,420
+144,Dual,IPS,5.2,424,Marshmallow,Octa-core,256,16,3,13,8,2200,270
+150,Single,IPS,5,294,KitKat,Quad-core,32,8,1,5,2,5000,170
+178,Dual,IPS,5,196,KitKat,Quad-core,32,4,1,5,2,1730,140
+173,Dual,IPS,6,245,KitKat,Quad-core,32,8,1,8,2,3600,200
+185,Dual,IPS,6,367,KitKat,Octa-core,256,64,3,13,5,3000,500
+165,Dual,IPS,5.5,267,Marshmallow,Octa-core,32,8,2,13,5,2000,200
+156,Dual,IPS,5,294,KitKat,Quad-core,32,16,1,8,2,4800,100
+433,Single,IPS,9.6,157,KitKat,Quad-core,32,8,1,5,2,4800,180
+160,Dual,IPS,5,294,KitKat,Quad-core,32,8,1,8,2,2000,100
+160,Single,IPS,5,294,KitKat,Quad-core,32,8,1,8,2,2000,180
+153,Single,IPS,4.5,218,KitKat,Quad-core,32,4,1,5,2,3000,130
+165,Single,IPS,5.5,267,Marshmallow,Quad-core,32,16,2,13,5,2500,260
+156,Dual,Capacitive,5,294,Jelly Bean,Quad-core,32,16,1,8,2,3100,130
+130,Dual,IPS,5,445,Marshmallow,Octa-core,64,16,3,13,5,3000,290
+162,Dual,IPS,5.5,401,Jelly Bean,Octa-core,64,32,2,13,5,2300,200
+145,Single,Capacitive,4.5,245,Jelly Bean,Quad-core,32,8,1,5,1,1730,110
+160,Single,Capacitive,5,294,Jelly Bean,Quad-core,32,4,1,8,1,1500,170
+124,Dual,IPS,5,441,Lollipop,Quad-core,64,16,2,13,8,2000,250
+115,Single,TFT,4.5,245,Jelly Bean,Quad-core,32,8,1,8,5,2300,180
+115,Single,IPS,4.5,245,Jelly Bean,Quad-core,32,4,1,8,5,4800,250
+239,Single,IPS,7,323,KitKat,Quad-core,32,16,2,13,5,1750,350
+202,Single,IPS,6.1,241,Lollipop,Quad-core,64,16,2,13,5,1350,330
+162,Dual,IPS,5.5,267,Jelly Bean,Octa-core,64,8,2,13,5,2300,250
+140,Dual,IPS,5,294,Jelly Bean,Quad-core,32,8,2,8,5,2400,140
+150,Single,IPS,5,294,Jelly Bean,Dual-core,32,8,1,8,1,1730,250
+138,Single,IPS,4.7,312,Jelly Bean,Quad-core,32,8,2,13,1.3,2150,230
+155,Dual,IPS,5,294,Jelly Bean,Quad-core,32,8,2,8,1.3,2150,190
+120,Dual,IPS,4.7,312,KitKat,Quad-core,32,8,2,8,5,1730,230
+140,Single,TFT,4,233,Ice Cream Sandwich,Dual-core,32,4,1,5,1.3,1700,120
+145,Single,IPS,4.5,330,Jelly Bean,Quad-core,32,8,1,8,1.3,1950,250
+145,Single,IPS,4.5,326,Ice Cream Sandwich,Quad-core,32,8,2,8,1.3,1400,150
+135,Single,Super AMOLED,4.3,256,Ice Cream Sandwich,Dual-core,32,4,1,8,1.3,1400,150
+110,Single,Super AMOLED,4.3,256,Jelly Bean,Dual-core,32,4,1,8,1.3,1500,170
+580,Single,IPS,10,226,Ice Cream Sandwich,Quad-core,32,8,2,8,1.3,2600,330
+132,Single,IPS,4.5,326,Ice Cream Sandwich,Dual-core,32,8,1,8,1.3,1800,350
+150,Single,IPS,4.5,326,Ice Cream Sandwich,Quad-core,32,8,1,8,1.3,1800,260
+130,Single,IPS,4.5,326,Ice Cream Sandwich,Quad-core,32,8,1,8,1.3,1800,290
+130,Single,Super AMOLED,4.3,256,Ice Cream Sandwich,Dual-core,32,4,1,8,1.3,1900,260
+390,Single,IPS,7,216,Ice Cream Sandwich,Dual-core,32,8,1,5,1.3,4100,150
+390,Single,IPS,7,216,Ice Cream Sandwich,Dual-core,32,8,1,5,1.3,1000,160
+138,Dual,IPS,4.5,218,Marshmallow,Quad-core,32,4,1,5,2,2000,80
+200,Dual,IPS,5,220,Jelly Bean,Quad-core,32,4,1,8,2,1600,160
+200,Single,IPS,4.5,326,KitKat,Quad-core,32,16,2,8,2,2000,320
+187.1,Single,Capacitive,4.5,326,KitKat,Quad-core,32,16,2,8,2,2100,300
+140,Dual,Capacitive,4.5,218,Marshmallow,Quad-core,32,8,1,5,5,3020,6099
+163,Dual,IPS,5.5,267,Marshmallow,Octa-core,128,32,4,13,8,2620,250
+153.2,Dual,IPS,5.5,267,Marshmallow,Quad-core,32,16,3,13,8,2500,150
+142,Dual,IPS,5,294,Lollipop,Quad-core,32,8,2,8,5,2000,100
+133,Dual,IPS,5,294,Marshmallow,Quad-core,32,16,3,13,5,2000,150
+128,Dual,IPS,5,294,Lollipop,Quad-core,32,16,2,13,8,1750,120
+135,Dual,IPS,5.5,267,Marshmallow,Quad-core,32,32,2,8,5,1400,160
+152,Dual,IPS,5,196,Lollipop,Quad-core,32,8,1,8,2,1750,110
+174,Dual,IPS,5,294,KitKat,Quad-core,32,8,1,10,2,1950,130
+134,Dual,IPS,5,294,KitKat,Quad-core,32,8,1,8,5,2000,110
+116,Dual,IPS,4.7,312,Jelly Bean,Quad-core,32,16,1,13,3,1450,150
+138,Dual,IPS,4.5,218,KitKat,Quad-core,32,8,1,8,2,1500,100
+114,Dual,IPS,4.7,312,Jelly Bean,Quad-core,32,4,1,8,3,1500,180
+500,Single,IPS,10.1,149,Nougat,Quad-core,256,16,2,5,2,4850,140
+310,Single,IPS,8,189,Nougat,Quad-core,256,16,2,5,2,4250,100
+329,Single,IPS,8,283,Marshmallow,Octa-core,256,16,3,8,5,3100,170
+142,Dual,IPS,5,294,Marshmallow,Quad-core,32,16,2,8,2,2300,130
+142,Dual,IPS,5,294,Marshmallow,Quad-core,32,16,1,8,2,2000,110
+144,Dual,TFT,4.5,207,Marshmallow,Quad-core,32,8,1,5,2,2000,80
+146,Dual,Capacitive,4.5,218,Lollipop,Quad-core,32,8,1,5,2,5100,70
+140,Dual,IPS,5,441,Marshmallow,Octa-core,256,16,2,13,8,9300,200
+155.6,Dual,IPS,5,294,Marshmallow,Quad-core,32,16,2,8,5,2750,170
+139,Dual,IPS,5,294,Marshmallow,Quad-core,32,8,1,8,5,4050,200
+259,Dual,IPS,6.4,459,Marshmallow,Octa-core,256,64,4,16,8,3500,550
+166,Dual,IPS,5,294,Lollipop,Quad-core,32,8,1,5,2,3100,90
+142,Dual,IPS,5,441,Lollipop,Octa-core,32,16,2,13,5,2750,140
+142,Dual,IPS,5,294,Lollipop,Octa-core,32,16,2,13,5,2900,120
+150,Dual,IPS,5.5,401,Lollipop,Octa-core,32,16,2,13,5,4900,180
+189,Dual,IPS,5.5,401,Lollipop,Octa-core,256,32,3,13,5,3500,260
+142,Dual,IPS,5,441,Lollipop,Octa-core,32,16,2,13,5,2700,110
+175,Dual,IPS,5.5,401,Lollipop,Hexa-core,256,32,3,21,8,2300,300
+666.8,Single,IPS,10.1,299,Marshmallow,Quad-core,256,64,4,13,5,6200,480
+250,Dual,IPS,6.98,210,Lollipop,Quad-core,64,16,1,13,5,3500,180
+229,Dual,IPS,6.8,324,Lollipop,Octa-core,64,32,2,13,5,5000,250
+189,Dual,IPS,5.5,401,Lollipop,Octa-core,256,32,2,13,5,2300,380
+128,Dual,IPS,5,294,Lollipop,Quad-core,32,16,2,13,5,2300,160
+128,Dual,IPS,5,294,Lollipop,Quad-core,32,8,1,8,2,4000,150
+148,Dual,IPS,5,294,Lollipop,Quad-core,32,16,2,8,5,2420,110
+132,Dual,IPS,5,441,Marshmallow,Octa-core,256,32,3,13,8,4100,270
+137,Dual,Capacitive,4.5,218,Lollipop,Quad-core,32,8,1,5,2,2250,70
+128,Dual,IPS,5,294,Lollipop,Quad-core,32,8,2,13,5,2300,280
+128,Dual,IPS,5,294,Lollipop,Quad-core,32,16,2,8,2,1500,110
+150,Dual,IPS,5.5,401,Marshmallow,Octa-core,32,16,2,13,5,3000,150
+145,Dual,IPS,5,441,Lollipop,Octa-core,256,32,3,16,8,2900,300
+140,Dual,IPS,5.5,401,Marshmallow,Octa-core,32,16,2,13,5,2900,190
+140,Dual,IPS,5.5,267,Marshmallow,Octa-core,32,8,2,8,5,4000,150
+160,Dual,IPS,5,294,Lollipop,Quad-core,32,8,1,8,2,7000,150
+509,Single,IPS,10.1,218,Lollipop,Quad-core,64,16,2,8,5,4290,180
+360,Dual,IPS,8,184,Lollipop,Quad-core,32,8,1,5,2,4000,120
+149,Dual,IPS,5,294,KitKat,Octa-core,32,16,2,13,5,3450,240
+128,Dual,IPS,5,294,KitKat,Quad-core,32,8,1,8,2,4000,100
+140,Dual,IPS,5.3,416,KitKat,Octa-core,256,32,2,13,13,2300,330
+170,Dual,IPS,6,245,KitKat,Octa-core,32,8,1,13,5,2500,160
+173,Dual,IPS,5.5,267,KitKat,Octa-core,32,8,1,13,2,2500,160
+170,Single,IPS,5,196,KitKat,Quad-core,32,8,1,8,2,9600,120
+948,Single,IPS,13.3,221,KitKat,Quad-core,64,32,2,8,1.6,9600,410
+619,Single,IPS,10.1,224,Lollipop,Quad-core,64,16,2,8,1.6,6400,300
+419,Single,IPS,8,283,Lollipop,Quad-core,64,16,2,8,1.6,4290,230
+299,Single,IPS,8,283,KitKat,Quad-core,32,16,2,8,1.6,2300,150
+180,Single,IPS,5,294,KitKat,Octa-core,32,16,2,13,5,2000,150
+148,Dual,Capacitive,5,196,KitKat,Quad-core,32,8,1,5,2,2000,100
+550,Single,IPS,10.1,149,KitKat,Quad-core,32,16,1,5,2,4200,190
+360,Single,IPS,8,189,Jelly Bean,Quad-core,32,8,1,5,2,3450,140
+320,Single,IPS,7,216,KitKat,Quad-core,32,8,1,5,2,3500,120
+615,Single,IPS,10.1,224,KitKat,Quad-core,64,16,2,8,1.6,4000,260
+163.3,Dual,IPS,5,294,Jelly Bean,Quad-core,32,8,1,8,1.6,3000,140
+170,Dual,IPS,6,245,KitKat,Quad-core,32,8,1,8,1.6,2000,220
+143,Dual,IPS,4.7,312,Jelly Bean,Quad-core,32,4,1,12,2,1500,230
+159,Dual,IPS,5.3,277,Jelly Bean,Quad-core,32,4,1,8,2,6350,250
+166.5,Single,IPS,5.2,423,Nougat,Octa-core,256,32,2,16,5,3300,400
+144,Dual,IPS,5,293,Nougat,Quad-core,32,16,1.5,13,5,2500,160
+132,Dual,IPS,4.5,218,Marshmallow,Quad-core,32,8,1,5,2,6000,100
+510,Single,IPS,10.1,224,Marshmallow,Octa-core,256,32,2,5,5,3000,340
+122,Single,IPS,5,294,Marshmallow,Quad-core,32,16,1.5,8,5,2800,180
+150,Dual,IPS,5.5,538,Marshmallow,Hexa-core,256,32,3,12.3,8,4800,480
+309,Single,IPS,8,283,Marshmallow,Octa-core,256,16,2,5,5,4100,220
+121,Dual,IPS,5,294,Marshmallow,Quad-core,256,16,1.5,8,5,2900,200
+144.6,Single,IPS,5.7,258,Marshmallow,Quad-core,256,16,2,13,5,1900,150
+128,Dual,IPS,5,196,Lollipop,Quad-core,32,8,1,5,2,1940,120
+120,Dual,IPS,4.93,298,Marshmallow,Quad-core,256,16,2,13,8,2125,180
+157,Dual,IPS,5,294,Nougat,Quad-core,32,8,1.5,8,5,3000,150
+120,Dual,IPS,4.5,218,Lollipop,Quad-core,32,8,1,5,2,4800,100
+169.8,Single,IPS,5.7,386,Lollipop,Octa-core,32,16,2,13,5,410,190
+347,Single,IPS,8,189,Lollipop,Quad-core,256,32,1.5,5,2,1700,300
+155,Dual,IPS,5,196,Lollipop,Quad-core,32,8,1,8,5,2300,130
+136,Single,IPS,5,294,Marshmallow,Quad-core,256,8,1,8,5,3000,150
+155,Dual,IPS,5.5,534,Marshmallow,Hexa-core,256,32,3,16,8,3000,280
+155,Single,IPS,5.5,538,Nougat,Hexa-core,256,32,3,16,8,3000,300
+165.9,Single,IPS,5.7,258,Marshmallow,Quad-core,32,8,1,8,5,3000,180
+135,Single,IPS,5,294,KitKat,Quad-core,32,16,1.5,8,2.1,700,220
+137,Dual,IPS,5,294,Marshmallow,Quad-core,32,8,1,8,5,2100,140
+124.4,Dual,IPS,4.7,312,Marshmallow,Quad-core,32,8,1,8,1,1900,120
+149,Dual,IPS,5.5,534,Marshmallow,Quad-core,256,32,3,13,2.1,3000,250
+163,Dual,IPS,5.5,200,KitKat,Quad-core,32,8,1,13,1.3,2540,240
+137,Dual,IPS,5,196,KitKat,Quad-core,32,8,1,8,1,1900,100
+344,Single,IPS,8,188,Lollipop,Quad-core,32,16,1,5,1.3,3200,240
+167,Single,IPS,5.7,258,KitKat,Quad-core,32,8,1.5,8,1.3,2610,270
+168.1,Single,Capacitive,5.7,258,Lollipop,Quad-core,64,8,1.5,8,1.3,3000,300
+134,Single,IPS,5,294,Lollipop,Quad-core,64,8,1,8,1.3,2100,190
+149.7,Single,IPS,5.5,538,Marshmallow,Quad-core,256,32,3,13,2.1,3000,300
+136.1,Single,IPS,4.7,234,KitKat,Quad-core,64,8,1,8,1.3,8000,130
+535.8,Single,IPS,10.1,149,Lollipop,Quad-core,64,16,1,5,1.3,8000,270
+523,Single,IPS,10.1,149,Lollipop,Quad-core,64,16,1,5,1.3,4200,260
+138,Single,IPS,5,187,KitKat,Dual-core,32,8,1,8,1.3,2540,150
+339.9,Single,IPS,8.3,273,Lollipop,Quad-core,64,16,2,5,1.3,2440,220
+121,Single,IPS,4.7,234,KitKat,Quad-core,32,8,1,13,1.3,2440,240
+121,Single,IPS,4.7,234,Lollipop,Quad-core,32,8,1,8,1.3,2440,180
+121,Dual,IPS,4.7,234,KitKat,Quad-core,32,8,1,8,1.3,2540,160
+126,Single,IPS,4.7,234,KitKat,Quad-core,32,8,1,5,1.3,2100,170
+172,Single,IPS,5.9,373,Lollipop,Quad-core,64,16,3,13,2.1,2150,310
+167,Single,IPS,5.5,401,Jelly Bean,Quad-core,64,32,2,13,2.1,2300,250
+161,Single,IPS,5.5,200,KitKat,Dual-core,32,8,1,8,1.3,3140,250
+161,Dual,IPS,5.5,200,Jelly Bean,Dual-core,32,8,1,8,1.3,1540,240
+120,Single,IPS,4.7,312,KitKat,Dual-core,32,8,1,8,1.3,2460,250
+141.2,Single,IPS,4.7,312,Jelly Bean,Quad-core,64,16,2,13,1.3,1700,270
+129,Single,IPS,4.3,256,Jelly Bean,Dual-core,64,8,1,5,1.3,2540,270
+131,Single,IPS,4.3,256,Jelly Bean,Dual-core,32,8,1,5,1.3,3140,220
+172,Single,IPS,5.5,401,KitKat,Quad-core,64,16,2,13,2.1,2460,400
+148,Single,IPS,4.7,312,Ice Cream Sandwich,Dual-core,32,16,1,8,1.3,1700,170
+147.1,Single,IPS,4.7,318,Jelly Bean,Quad-core,64,16,2,8,1.3,2100,250
+128,Single,IPS,4.3,256,Ice Cream Sandwich,Dual-core,32,4,1,5,1.3,1540,180
+145,Single,IPS,4.7,312,Ice Cream Sandwich,Dual-core,32,16,2,8,1.3,1830,210
+138,Single,IPS,4.3,217,Ice Cream Sandwich,Dual-core,32,8,1,8,1.3,1830,210
+135,Single,IPS,4.5,326,Ice Cream Sandwich,Dual-core,32,2,1,8,1.3,1500,220
+135,Single,IPS,4.5,326,Ice Cream Sandwich,Dual-core,32,4,1,8,1.3,1830,120
+139,Single,IPS,4.5,326,Ice Cream Sandwich,Dual-core,32,4,1,8,1.3,1500,140
+143,Dual,IPS,5.2,282,Marshmallow,Octa-core,256,16,3,13,5,4000,130
+189,Dual,IPS,6,367,Marshmallow,Octa-core,256,64,3,13,5,3100,270
+172,Dual,IPS,5.5,403,Lollipop,Octa-core,256,32,3,13,5,3060,220
+162,Dual,IPS,5.5,403,Lollipop,Octa-core,256,16,2,13,5,3050,170
+168,Dual,AMOLED,5.7,386,Lollipop,Octa-core,256,32,3,21,5,2500,390
+131,Dual,IPS,5,294,Lollipop,Quad-core,256,16,2,13,5,3150,130
+149,Dual,IPS,5.5,403,Lollipop,Octa-core,256,16,2,13,5,3140,200
+128,Single,TFT,5,300,KitKat,Quad-core,256,8,1,13,5,3350,100
+162,Dual,IPS,5.5,401,Marshmallow,Octa-core,32,32,3,13,5,1300,140
+140,Dual,IPS,4.5,218,Marshmallow,Quad-core,32,8,1,5,2,3000,60
+165,Dual,IPS,5,196,Marshmallow,Quad-core,32,8,1,5,2,3050,70
+128,Dual,IPS,5,294,Lollipop,Octa-core,32,16,3,13,5,2500,130
+310.5,Single,IPS,8,189,KitKat,Dual-core,32,8,1,5,2,3200,150
+198,Dual,IPS,5.5,267,Nougat,Quad-core,128,16,3,13,5,5000,190
+181,Single,IPS,5.5,267,Nougat,Quad-core,128,16,2,13,5,2800,180
+151,Dual,IPS,5,294,Nougat,Quad-core,128,16,2,8,5,2800,150
+150,Single,IPS,5,294,Nougat,Quad-core,128,16,2,8,5,3000,130
+153.5,Dual,IPS,5,294,Marshmallow,Quad-core,32,16,2,8,5,3510,130
+165,Dual,Super AMOLED,5.5,403,Nougat,Octa-core,256,32,3,16,5,2800,350
+140.6,Single,IPS,5,294,Marshmallow,Quad-core,32,8,1,8,5,3500,120
+163,Single,AMOLED,5.5,535,Nougat,Quad-core,256,32,4,21,5,2600,720
+136,Dual,AMOLED,5.5,535,Nougat,Quad-core,256,32,4,13,5,3000,540
+155,Dual,IPS,5.5,401,Nougat,Octa-core,256,16,2,13,5,2800,190
+155,Dual,IPS,5,294,Marshmallow,Octa-core,32,16,2,13,5,3760,280
+170.1,Single,AMOLED,5.4,540,Nougat,Octa-core,256,32,3,21,5,3630,390
+169,Single,IPS,5.5,403,Nougat,Octa-core,256,16,2,21,5,3000,330
+179,Single,IPS,5.7,520,Nougat,Hexa-core,256,16,3,21,5,3630,260
+169,Dual,IPS,5.5,401,Lollipop,Octa-core,256,16,2,21,5,3630,250
+169,Single,IPS,5.5,403,Nougat,Octa-core,256,16,2,21,5,2470,240
+155,Dual,IPS,5,294,Lollipop,Quad-core,32,8,1,13,5,300,170
+155,Single,IPS,5,294,Marshmallow,Quad-core,32,8,1,13,5,2390,170
+155,Single,IPS,5,294,Lollipop,Quad-core,32,8,1,8,2,2390,210
+155,Dual,IPS,5,294,Lollipop,Quad-core,32,8,1,8,2,3900,240
+149,Dual,IPS,5,294,KitKat,Quad-core,32,8,1,8,2,2070,200
+149,Single,IPS,5,294,Marshmallow,Quad-core,32,8,1,8,2,2070,160
+143,Single,IPS,4.5,329,Lollipop,Quad-core,32,8,1,5,1.3,2000,160
+120,Dual,TFT,4,233,KitKat,Dual-core,32,4,1,8,1.2,1785,230
+157,Single,Super AMOLED,4.7,312,KitKat,Dual-core,32,16,1,8,1.3,2530,270
+140,Single,TFT,4.5,326,Jelly Bean,Dual-core,32,8,1,8,1.3,1650,220
+145,Single,Super AMOLED,4.3,256,Jelly Bean,Dual-core,32,16,1,8,1.3,1650,230
+178.9,Single,TFT,4,275,Ice Cream Sandwich,Dual-core,32,16,1,8,1.3,3300,260
+145,Single,Super AMOLED,4.3,256,Jelly Bean,Dual-core,32,8,1,8,1.3,1390,260
+650,Single,TFT,10.1,149,Ice Cream Sandwich,Dual-core,32,16,1,5,1.3,1780,230
+127,Single,Super AMOLED,4.3,256,Jelly Bean,Dual-core,32,16,1,8,2,1785,220
+730,Single,TFT,10.1,149,Jelly Bean,Dual-core,32,16,1,5,2,1930,310
+138,Dual,AMOLED,5,441,Marshmallow,Quad-core,256,16,3,13,8,3300,270
+147,Dual,IPS,5.2,282,Marshmallow,Octa-core,256,32,3,13,16,3075,260
+185,Dual,AMOLED,6,367,Marshmallow,Octa-core,256,64,6,16,16,3010,570
+145,Dual,AMOLED,5.5,401,Marshmallow,Octa-core,256,64,4,16,16,2630,450
+136,Dual,IPS,5,294,Lollipop,Quad-core,256,16,2,8,5,3075,220
+160,Dual,IPS,5.5,267,Lollipop,Octa-core,256,32,3,13,8,4120,290
+185,Dual,Capacitive,6,367,Marshmallow,Octa-core,256,64,4,16,16,2850,550
+145,Dual,AMOLED,5.5,401,Lollipop,Octa-core,256,64,4,13,16,2500,350
+134,Dual,IPS,5,294,Lollipop,Octa-core,256,16,3,13,8,3075,230
+146,Dual,IPS,5,220,Lollipop,Quad-core,256,16,2,8,5,2420,240
+155,Dual,AMOLED,5.5,401,Lollipop,Octa-core,256,32,4,13,8,2320,260
+147,Dual,AMOLED,5,294,Lollipop,Octa-core,256,16,2,13,8,2000,250
+160,Dual,IPS,5,220,Lollipop,Quad-core,256,16,2,8,5,2000,220
+135,Dual,IPS,4.5,218,KitKat,Quad-core,32,4,1,5,2,4100,130
+192,Dual,AMOLED,6,367,Lollipop,Octa-core,256,32,3,13,8,2320,430
+147,Dual,AMOLED,5,445,KitKat,Octa-core,256,16,3,13,8,2000,360
+135,Dual,IPS,4.5,218,KitKat,Quad-core,32,8,1,8,2,2000,70
+135,Dual,IPS,4.5,218,KitKat,Quad-core,256,8,1,8,2,1700,160
+130,Dual,IPS,4.7,312,KitKat,Quad-core,256,8,1,8,5,2000,270
+130,Dual,IPS,5,294,KitKat,Octa-core,256,16,2,13,5,3000,340
+192,Dual,IPS,5.5,403,KitKat,Quad-core,256,32,2,16,16,2410,550
+128,Dual,IPS,4.5,218,Jelly Bean,Dual-core,32,4,1,5,2,2000,130
+128,Dual,IPS,4.7,234,Jelly Bean,Quad-core,32,4,1,8,2,1900,240
+132.5,Single,IPS,4.5,218,Jelly Bean,Quad-core,32,4,1,5,2,2140,140
+140,Single,IPS,5,294,Jelly Bean,Quad-core,256,8,1,8,5,3000,270
+171,Single,IPS,5.5,534,Jelly Bean,Quad-core,256,32,3,13,5,2800,440
+170,Single,IPS,5.5,401,Jelly Bean,Quad-core,256,16,2,13,5,1900,370
+141.5,Single,IPS,4.3,217,Jelly Bean,Quad-core,32,4,1,5,2,1500,100
+180,Dual,IPS,5.5,267,Marshmallow,Quad-core,128,16,3,13,5,4000,11500
+146.7,Dual,IPS,5,294,Marshmallow,Quad-core,64,16,2,8,2,4000,90
+169,Dual,IPS,5,294,Marshmallow,Quad-core,64,16,3,13,5,3000,110
+163,Dual,IPS,5.5,267,Marshmallow,Octa-core,128,32,3,13,5,4000,150
+193,Dual,IPS,5.5,267,Marshmallow,Quad-core,64,32,3,13,5,3000,130
+165,Dual,IPS,5.2,424,Marshmallow,Octa-core,256,32,4,16,8,3000,170
+145,Dual,IPS,5.5,267,Marshmallow,Quad-core,128,16,3,13,5,2200,160
+133,Dual,IPS,5,294,Marshmallow,Quad-core,128,16,2,13,5,2600,130
+156,Dual,IPS,5.3,277,Marshmallow,Quad-core,32,16,2,13,5,2500,160
+155,Dual,IPS,5.5,267,Marshmallow,Octa-core,32,16,3,13,5,2000,100
+126,Dual,IPS,5,294,Lollipop,Quad-core,32,8,1,8,2,2800,100
+138,Dual,IPS,5,294,Marshmallow,Quad-core,32,16,2,8,5,2450,150
+147,Dual,IPS,5,294,Marshmallow,Quad-core,256,32,3,8,5,3000,200
+142,Dual,IPS,5.5,401,Marshmallow,Octa-core,32,32,3,16,5,4000,170
+167.5,Dual,IPS,5,294,Lollipop,Quad-core,256,16,3,8,5,2700,150
+155,Dual,IPS,5,294,Lollipop,Quad-core,32,16,2,8,5,2350,110
+145,Dual,IPS,5,294,Lollipop,Octa-core,32,32,3,13,5,1600,140
+145,Dual,IPS,5.5,267,Lollipop,Octa-core,32,16,2,13,5,2910,200
+147,Dual,IPS,5.5,267,KitKat,Octa-core,32,16,2,13,8,2050,160
+110,Dual,IPS,5,294,KitKat,Quad-core,32,8,1,8,5,1980,190
+135,Dual,IPS,4.7,312,KitKat,Octa-core,32,8,1,8,5,2500,130
+135,Dual,IPS,5,294,KitKat,Octa-core,32,8,1,8,5,2800,150
+173.8,Dual,IPS,6,245,KitKat,Quad-core,32,16,1,8,2,1650,190
+117,Dual,IPS,4,233,KitKat,Quad-core,32,8,1,5,2,2500,90
+148,Dual,IPS,5.5,267,KitKat,Quad-core,32,4,1,8,2,2000,120
+155,Dual,IPS,5,294,KitKat,Quad-core,32,8,1,8,2,2600,140
+204,Single,Capacitive,4.7,469,Lollipop,Quad-core,256,16,2,20.1,1.1,2000,830
+115,Dual,IPS,5,196,Jelly Bean,Quad-core,32,4,1,8,1.3,2500,120
+141,Dual,IPS,5,294,KitKat,Quad-core,32,16,2,13,2,2500,240
+140,Dual,IPS,4.5,326,Jelly Bean,Dual-core,32,4,1,8,2,2000,170
+160,Dual,IPS,5,294,Jelly Bean,Quad-core,32,4,1,8,2,1500,200
+135,Dual,IPS,5,294,Jelly Bean,Quad-core,32,4,1,8,1.3,2000,440
+133,Dual,IPS,5,220,KitKat,Quad-core,32,8,1,8,2,1800,170
+168.5,Single,IPS,5.3,277,Jelly Bean,Quad-core,32,16,2,13,2,1830,550
+132,Single,Super AMOLED,4.3,256,Jelly Bean,Dual-core,32,8,1,8,2,1000,230
+134.1,Single,IPS,4.8,306,Ice Cream Sandwich,Dual-core,32,16,1,8,2,1830,340
+469.8,Single,TFT,8,160,Ice Cream Sandwich,Dual-core,32,16,1,5,2,1000,220
+621,Single,IPS,9.7,264,Jelly Bean,Quad-core,32,16,2,5,2,4600,200
+450,Single,IPS,8,160,Jelly Bean,Quad-core,32,16,1,5,2,2600,190
+140,Dual,TFT,5.3,185,Jelly Bean,Quad-core,32,4,1,8,1.2,2000,180
+621,Single,IPS,9.7,264,Jelly Bean,Quad-core,32,8,2,2,2,4700,200
+210,Dual,AMOLED,6,490,Lollipop,Octa-core,256,64,3,24,8,2300,400
+138,Dual,IPS,4.5,245,Marshmallow,Quad-core,64,8,1,5,2,2000,100
+152,Dual,IPS,5,196,Lollipop,Quad-core,64,8,1,5,5,2500,100
+151,Dual,IPS,4.7,199,Lollipop,Quad-core,32,8,1,8,2,1950,100
+150,Dual,TFT,5,196,KitKat,Quad-core,32,8,1,5,2,2820,160
+180,Dual,IPS,5,294,KitKat,Quad-core,32,8,1,8,2,1950,160
+120,Dual,IPS,5,294,KitKat,Quad-core,64,16,2,13,5,2000,170
+158,Dual,IPS,5,294,Jelly Bean,Quad-core,32,16,1,13,5,1500,220
+119,Single,IPS,4.7,312,KitKat,Quad-core,32,4,1,8,5,1800,150
+133,Single,Super AMOLED,5,441,Jelly Bean,Octa-core,64,16,2,13,5,4500,200
+167,Dual,IPS,5,294,KitKat,Quad-core,32,4,1,8,2,1800,130
+88.2,Dual,TFT,4.5,218,KitKat,Quad-core,32,8,1,5,2,1500,120
+148,Dual,Super AMOLED,5,294,Nougat,Quad-core,256,16,2,13,5,2050,220
+155,Dual,Super AMOLED,5.8,570,Nougat,Octa-core,256,64,4,12,8,3500,700
+172,Single,IPS,5,294,Nougat,Quad-core,256,16,2,13,5,6000,240
+172,Dual,Super AMOLED,5.7,386,Marshmallow,Octa-core,256,64,4,16,16,3600,420
+186,Dual,Super AMOLED,5.7,386,Marshmallow,Octa-core,256,32,3,16,16,3000,530
+157,Dual,Super AMOLED,5.2,424,Marshmallow,Octa-core,256,32,3,16,16,2350,430
+160,Dual,TFT,5,220,Marshmallow,Quad-core,256,8,1.5,8,5,2600,140
+189,Dual,Super AMOLED,6,367,Marshmallow,Octa-core,256,64,6,16,16,3300,620
+182,Dual,Super AMOLED,5.7,386,Marshmallow,Octa-core,256,32,3,16,8,3300,560
+169,Dual,Super AMOLED,5.5,401,Marshmallow,Octa-core,256,16,3,13,5,3300,300
+167,Dual,Capacitive,5.5,401,Marshmallow,Octa-core,256,32,3,13,8,380,260
+143,Dual,TFT,5,294,Marshmallow,Quad-core,256,16,2,13,5,3300,230
+167,Dual,TFT,5.5,401,Marshmallow,Octa-core,256,16,3,13,8,1500,280
+169,Single,Super AMOLED,5.7,515,Marshmallow,Quad-core,256,64,4,12,5,3500,760
+169,Dual,Super AMOLED,5.7,518,Marshmallow,Octa-core,256,64,4,12,5,3000,850
+172,Dual,TFT,5.5,267,Marshmallow,Quad-core,256,16,2,13,5,2600,180
+149,Dual,TFT,5,294,Marshmallow,Quad-core,256,16,2,8,5,4000,150
+289,Dual,TFT,7,216,Lollipop,Quad-core,256,8,1.5,8,2,2600,220
+138,Dual,Super AMOLED,5,294,Marshmallow,Quad-core,128,16,2,8,5,2600,160
+138,Dual,Super AMOLED,5,294,Marshmallow,Quad-core,128,8,1.5,8,5,2600,150
+184.8,Single,Super AMOLED,5.1,576,Nougat,Quad-core,256,32,4,12,5,2600,710
+139,Dual,Super AMOLED,5,294,Lollipop,Quad-core,256,16,2,8,5,3300,150
+169,Dual,Super AMOLED,5.7,386,Marshmallow,Octa-core,256,32,4,16,8,2600,450
+143,Dual,Super AMOLED,5.2,424,Marshmallow,Octa-core,256,32,4,16,8,5000,360
+210,Dual,Super AMOLED,6,367,Marshmallow,Octa-core,256,32,4,16,8,3300,500
+170,Dual,Super AMOLED,5.5,267,Marshmallow,Octa-core,256,16,2,13,5,3100,230
+159,Dual,Super AMOLED,5.2,282,Marshmallow,Quad-core,256,16,2,13,5,7300,190
+283,Single,IPS,7,216,Lollipop,Quad-core,256,8,1.5,5,2,3000,130
+157,Single,Super AMOLED,5.5,534,Marshmallow,Quad-core,256,32,4,12,5,3000,550
+152,Single,Super AMOLED,5.1,576,Nougat,Quad-core,256,32,4,12,5,1500,460
+131,Dual,Super AMOLED,4.5,207,Lollipop,Quad-core,256,8,1,5,2,4000,130
+200,Dual,Super AMOLED,6,367,Marshmallow,Octa-core,256,32,3,13,8,3300,460
+172,Dual,Super AMOLED,5.5,401,Marshmallow,Octa-core,256,16,3,13,5,2900,380
+155,Dual,Super AMOLED,5.2,424,Nougat,Octa-core,256,16,2,13,5,2300,270
+132,Dual,Super AMOLED,4.7,312,Nougat,Quad-core,256,16,1.5,13,5,2600,200
+172,Dual,TFT,5.5,267,Marshmallow,Quad-core,256,8,1.5,13,5,2600,180
+149,Dual,TFT,5,288,Lollipop,Quad-core,256,8,1.5,8,5,2600,140
+145,Single,Super AMOLED,5.1,432,Marshmallow,Octa-core,256,16,2,16,5,1900,350
+107,Single,Super AMOLED,4.3,256,KitKat,Quad-core,64,8,1.5,8,1.9,1800,190
+155,Single,TFT,3.8,246,Lollipop,Quad-core,256,8,1.5,8,2,5870,260
+151,Dual,Super AMOLED,5.7,386,Marshmallow,Octa-core,256,32,2,16,5,3050,380
+151,Single,Super AMOLED,5.7,386,Marshmallow,Octa-core,256,32,2,16,5,1500,350
+171,Dual,Super AMOLED,5.5,267,Marshmallow,Octa-core,256,16,1.5,13,5,2600,250
+146,Dual,Super AMOLED,5,294,Marshmallow,Quad-core,256,8,1.5,13,5,6800,160
+487,Single,TFT,10.1,149,Lollipop,Quad-core,64,16,1.5,3.15,1.3,5000,280
+322,Single,TFT,7,170,KitKat,Quad-core,32,8,1,2,2,6000,130
+490,Single,TFT,9.7,132,Lollipop,Quad-core,256,16,2,5,2,4200,340
+154,Single,TFT,4.5,207,Lollipop,Quad-core,256,8,1.5,5,2,2600,220
+129,Dual,Super AMOLED,4.7,234,Lollipop,Quad-core,256,8,1,5,2,3600,150
+141,Dual,Super AMOLED,5.5,401,KitKat,Octa-core,64,16,2,13,5,2600,300
+141,Single,Super AMOLED,5.5,401,Lollipop,Octa-core,64,16,2,13,5,2500,300
+161,Single,IPS,5.25,282,KitKat,Quad-core,64,16,1.5,13,5,2950,260
+141,Dual,Super AMOLED,5.5,267,Lollipop,Quad-core,64,16,2,13,5,2400,230
+130,Dual,Capacitive,4.5,207,Lollipop,Quad-core,64,8,1,5,2,2300,150
+123,Dual,Super AMOLED,5,294,Lollipop,Quad-core,64,16,2,13,5,2300,290
+123,Single,Super AMOLED,5,294,Nougat,Quad-core,64,16,2,13,5,1900,260
+110.3,Dual,Super AMOLED,4.5,245,Lollipop,Quad-core,64,16,1,8,5,1900,230
+145,Single,Super AMOLED,5.1,432,KitKat,Quad-core,256,16,2,16,2,1200,380
+152,Dual,TFT,5,220,KitKat,Quad-core,64,8,1,8,5,2600,150
+156,Dual,TFT,5,220,Lollipop,Quad-core,64,8,1,8,5,1900,140
+126,Single,Super AMOLED,4.3,217,KitKat,Quad-core,64,8,1,5,1.3,3000,200
+174,Single,Super AMOLED,5.6,524,Marshmallow,Quad-core,256,32,3,16,3.7,3000,400
+175,Dual,Super AMOLED,5.7,515,Marshmallow,Quad-core,256,16,3,16,3.7,3220,500
+176,Single,Super AMOLED,5.7,518,Marshmallow,Quad-core,256,32,3,16,3.7,3220,550
+176,Single,Super AMOLED,5.7,518,Marshmallow,Quad-core,256,32,3,16,3.7,4450,440
+393,Single,Capacitive,8,189,KitKat,Quad-core,64,16,1.5,3.15,1.2,4450,600
+393,Single,Capacitive,8,189,KitKat,Quad-core,64,16,1.5,3.15,1.2,2800,500
+194,Single,Capacitive,6,245,KitKat,Quad-core,64,16,1.5,8,2.1,300,340
+145,Single,Super AMOLED,5.1,432,KitKat,Quad-core,256,16,2,16,2,1860,390
+118,Dual,Super AMOLED,4.5,326,Marshmallow,Quad-core,64,16,1.5,8,2.1,2100,250
+120,Single,Super AMOLED,4.5,326,Lollipop,Quad-core,64,16,1.5,8,2.1,1800,220
+158,Single,Super AMOLED,5.1,432,Marshmallow,Quad-core,256,16,2,16,2,2800,500
+145,Single,Super AMOLED,5.1,577,Marshmallow,Quad-core,256,16,3,16,2,4900,550
+298,Single,Super AMOLED,8.4,359,Marshmallow,Quad-core,256,16,3,8,2.1,4900,370
+294,Single,Super AMOLED,8.4,359,Marshmallow,Octa-core,256,16,3,8,2.1,7900,300
+467,Single,Super AMOLED,10.5,288,Marshmallow,Quad-core,256,16,3,8,2.1,7900,440
+465,Single,Super AMOLED,10.5,288,Marshmallow,Octa-core,256,16,3,8,2.1,2000,370
+132,Single,Super AMOLED,4.8,306,KitKat,Quad-core,64,16,1.5,8,1.9,3200,270
+200,Single,Super AMOLED,4.8,306,KitKat,Hexa-core,64,8,2,20.7,2,2600,440
+132,Dual,Super AMOLED,4.8,306,KitKat,Quad-core,64,16,1.5,8,1.9,1500,300
+276,Single,TFT,7,216,KitKat,Quad-core,32,8,1.5,3.15,1.3,4000,190
+276,Single,TFT,7,216,KitKat,Quad-core,32,8,1.5,3.15,1.3,4000,240
+276,Single,TFT,7,216,KitKat,Quad-core,64,8,1.5,3.15,1.3,4450,280
+320,Single,TFT,8,189,KitKat,Quad-core,64,16,1.5,3.15,1.3,4450,270
+320,Single,TFT,8,189,KitKat,Quad-core,64,16,1.5,3.15,1.3,4450,300
+320,Single,TFT,8,189,KitKat,Quad-core,64,16,1.5,3.15,1.3,6800,350
+487,Single,TFT,10.1,149,KitKat,Quad-core,64,16,1.5,3.15,1.3,6800,270
+487,Single,TFT,10.1,149,Lollipop,Quad-core,64,16,1.5,3.15,1.3,6800,300
+487,Single,TFT,10.1,149,KitKat,Quad-core,64,16,1.5,3.15,1.3,2100,310
+145,Dual,Super AMOLED,5.1,432,KitKat,Quad-core,256,16,2,16,2,2800,420
+145,Single,Super AMOLED,5.1,432,Marshmallow,Octa-core,256,16,2,16,2,2800,380
+144.9,Single,Super AMOLED,5.1,432,Lollipop,Quad-core,256,16,2,16,2,2800,480
+145,Single,Super AMOLED,5.1,432,Marshmallow,Quad-core,256,16,2,16,2,2100,360
+753,Single,Capacitive,12.2,247,Lollipop,Quad-core,64,32,3,8,2,9500,670
+753,Single,Capacitive,12.2,247,KitKat,Octa-core,64,32,3,8,2,9500,640
+750,Single,Capacitive,12.2,247,KitKat,Octa-core,64,32,3,8,2,9500,540
+740,Single,Capacitive,12.2,247,KitKat,Quad-core,64,32,3,8,2,9500,500
+732,Single,Capacitive,12.2,247,KitKat,Octa-core,64,32,3,8,2,9500,470
+730.2,Single,Capacitive,12.2,247,Lollipop,Octa-core,64,32,3,8,2,8220,420
+477,Single,Capacitive,10.1,299,KitKat,Quad-core,64,16,2,8,2,8220,420
+469,Single,Capacitive,10.1,299,KitKat,Octa-core,64,16,2,8,2,4800,360
+335,Single,Capacitive,8.4,359,KitKat,Quad-core,64,16,2,8,2,4800,420
+331,Single,Capacitive,8.4,359,KitKat,Quad-core,64,16,2,8,2,2000,290
+147,Single,TFT,5,441,Jelly Bean,Quad-core,64,16,2,13,2,2600,410
+146,Single,Super AMOLED,5,441,Lollipop,Quad-core,64,16,3,13,2,2100,450
+163,Dual,TFT,5.25,280,KitKat,Quad-core,64,8,1.5,8,1.9,1820,180
+179,Single,Super AMOLED,3.7,252,Jelly Bean,Dual-core,64,16,1.5,8,1.9,2100,590
+130,Single,Super AMOLED,5,441,Lollipop,Quad-core,64,16,2,13,2,1800,390
+154,Single,AMOLED,5.7,386,Jelly Bean,Quad-core,64,32,3,13,2,1500,680
+168,Single,Super AMOLED,5.7,386,Lollipop,Quad-core,64,16,3,13,2,1200,420
+208,Single,Super AMOLED,4.3,256,KitKat,Dual-core,64,8,1.5,16,1.9,1500,280
+107,Dual,Super AMOLED,4.3,256,KitKat,Dual-core,64,8,1.5,8,1.9,2600,230
+314,Single,TFT,8,189,Jelly Bean,Dual-core,64,16,1.5,5,1.3,6800,270
+510,Single,TFT,10.1,149,Jelly Bean,Dual-core,64,16,1,3.15,1.3,6800,290
+510,Single,TFT,10.1,149,Jelly Bean,Dual-core,64,16,1,3.15,1.3,6800,330
+510,Single,TFT,10.1,149,Jelly Bean,Dual-core,64,16,1,3.15,1.3,1500,260
+302,Single,TFT,7,170,Jelly Bean,Dual-core,64,8,1,3.15,1.3,4000,140
+306,Single,TFT,7,170,Jelly Bean,Dual-core,64,8,1,3.15,1.3,3200,150
+199,Single,Capacitive,6.3,233,KitKat,Dual-core,64,8,1.5,8,1.9,2600,300
+182,Dual,TFT,5.8,190,Jelly Bean,Dual-core,64,8,1.5,8,1.9,1500,280
+130,Single,Super AMOLED,5,441,Lollipop,Quad-core,64,16,2,13,2,2600,330
+130,Single,Super AMOLED,5,441,Lollipop,Octa-core,64,16,2,13,2,2600,320
+132,Dual,Super AMOLED,5,441,Jelly Bean,Octa-core,64,16,2,13,2,2600,460
+130.1,Single,Super AMOLED,5,441,Lollipop,Quad-core,64,16,2,13,2,4600,440
+338,Single,TFT,8,189,KitKat,Quad-core,64,16,2,5,1.3,1200,280
+139.1,Single,Super AMOLED,4.5,207,Jelly Bean,Dual-core,32,8,1,5,1.3,1700,180
+121,Single,Super AMOLED,4.3,217,Jelly Bean,Dual-core,64,8,1,8,2,2100,210
+162,Dual,TFT,5,187,Jelly Bean,Dual-core,64,8,1,8,2,2100,180
+162,Single,TFT,5,187,Jelly Bean,Dual-core,64,8,1,8,2,1000,210
+600,Single,Capacitive,10.1,149,Jelly Bean,Quad-core,64,16,2,5,1.9,1300,390
+136.1,Single,TFT,4,233,Ice Cream Sandwich,Dual-core,32,4,1,5,1.3,1800,150
+154,Single,Super AMOLED,4,233,Ice Cream Sandwich,Dual-core,32,8,1,5,1.3,1300,170
+134,Single,Super AMOLED,4.65,316,Jelly Bean,Quad-core,64,8,1,8,1.9,2100,110
+130,Single,Super AMOLED,4.65,316,Jelly Bean,Dual-core,32,8,1,8,1.9,9000,260
+131,Single,Super AMOLED,4.8,306,KitKat,Quad-core,64,16,2,8,1.9,2100,320
+139,Single,TFT,4,233,Jelly Bean,Dual-core,32,4,1,5,1.3,1800,150
+183,Single,Super AMOLED,5.5,267,KitKat,Quad-core,64,16,2,8,1.9,3100,300
+179.4,Single,Super AMOLED,5.5,267,KitKat,Quad-core,64,16,2,8,1.9,2300,350
+597,Single,TFT,10.1,149,KitKat,Quad-core,64,16,2,5,1.9,1000,350
+133,Single,Super AMOLED,4.8,306,Jelly Bean,Dual-core,64,16,2,8,1.9,2100,310
+134,Single,Super AMOLED,4.8,306,Jelly Bean,Dual-core,64,16,2,8,1.9,2100,300
+133.2,Single,Super AMOLED,4.8,306,Jelly Bean,Dual-core,64,16,2,8,1.9,2100,280
+133,Single,Super AMOLED,4.8,306,Jelly Bean,Quad-core,64,16,1,8,1.9,800,190
+180,Single,Super AMOLED,5.3,285,Ice Cream Sandwich,Dual-core,32,16,1,8,2,2500,350
+178,Single,Super AMOLED,5.3,285,Ice Cream Sandwich,Dual-core,32,16,1,8,2,1650,350
+130.5,Single,Super AMOLED,4.5,207,Jelly Bean,Dual-core,32,16,1,8,2,1000,180
+116,Single,Super AMOLED,4.3,217,Jelly Bean,Dual-core,64,16,1,8,2,1800,220
+147,Single,Super AMOLED,4,233,Ice Cream Sandwich,Dual-core,32,8,1,8,1.3,1200,110
+345,Single,Capacitive,7,170,Jelly Bean,Dual-core,32,16,1,3.15,2,4000,260
+345,Single,Capacitive,7,170,Jelly Bean,Dual-core,64,16,1,3.15,2,1500,260
+130.5,Single,Super AMOLED,4.65,316,Ice Cream Sandwich,Dual-core,32,16,1,8,2,1000,180
+178,Single,Super AMOLED,5.3,285,Jelly Bean,Dual-core,64,16,1,8,2,1650,270
+109,Single,Super AMOLED,4.52,206,Ice Cream Sandwich,Dual-core,32,16,1,8,2,1850,180
+135,Single,Super AMOLED,4.52,206,Jelly Bean,Dual-core,32,16,1,8,2,1800,160
+132,Single,Super AMOLED,4.5,207,Jelly Bean,Dual-core,32,16,1,8,2,6100,200
+135,Single,Capacitive,4.2,222,Ice Cream Sandwich,Dual-core,32,8,1,5,1.3,1600,200
+116,Single,Super AMOLED,4.3,217,Jelly Bean,Dual-core,32,16,1,8,2,1000,170
+151,Dual,IPS,5.5,401,Marshmallow,Octa-core,64,64,3,13,13,3000,240
+168,Single,Capacitive,5.7,386,Lollipop,Octa-core,256,32,3,13,2.1,2030,340
+141,Single,TFT,5,294,KitKat,Quad-core,256,8,1.5,8,1.2,1950,180
+180,Dual,IPS,5.5,267,Nougat,Quad-core,256,16,2,13,5,2900,200
+195,Single,IPS,5.46,807,Nougat,Octa-core,256,64,4,19,13,2700,750
+143,Dual,IPS,5,294,Nougat,Octa-core,256,32,3,23,8,2700,280
+135,Single,IPS,4.6,319,Nougat,Hexa-core,256,32,3,23,5,2900,370
+147,Dual,IPS,5,294,Marshmallow,Quad-core,256,16,1.5,13,5,2700,150
+202,Dual,IPS,6,367,Nougat,Octa-core,256,16,3,21.5,16,2700,380
+137.4,Dual,IPS,5,294,Nougat,Octa-core,256,16,2,13,8,2300,250
+137.4,Single,IPS,5,294,Nougat,Octa-core,256,16,2,13,8,3430,200
+180,Dual,IPS,5.5,801,Nougat,Octa-core,256,32,3,23,5.1,3430,510
+180,Single,IPS,5.5,806,Nougat,Octa-core,256,32,3,23,5.1,2900,500
+154,Dual,IPS,5.2,424,Nougat,Octa-core,256,32,3,23,5.1,2900,450
+154,Single,IPS,5.2,428,Nougat,Octa-core,256,32,3,23,5.1,2700,420
+138,Single,IPS,4.6,323,Nougat,Octa-core,256,32,2,23,5.1,2600,410
+142.6,Dual,IPS,5,441,Lollipop,Octa-core,256,16,3,21.2,13,2600,300
+142.5,Single,IPS,5,441,Marshmallow,Octa-core,256,16,3,21.2,13,2930,240
+187,Dual,IPS,6,367,Marshmallow,Octa-core,256,16,2,13,13,2930,350
+187,Single,IPS,6,367,Marshmallow,Octa-core,256,16,2,13,13,3000,310
+144,Dual,IPS,5.2,428,Marshmallow,Octa-core,256,32,3,20.7,5.1,2930,420
+144,Single,IPS,5.2,424,Nougat,Octa-core,256,32,3,20.7,5.1,2600,340
+147,Dual,IPS,5.5,401,Marshmallow,Octa-core,256,16,2,13,5,2600,270
+147,Single,IPS,5.5,401,Marshmallow,Octa-core,256,16,2,13,5,2400,220
+393,Single,IPS,10.1,299,Nougat,Octa-core,256,32,3,8.1,5.1,2300,500
+135,Single,IPS,4.7,234,KitKat,Quad-core,32,8,1,5,2,2300,130
+135,Dual,IPS,4.7,234,KitKat,Quad-core,32,8,1,5,2,2300,150
+144,Dual,IPS,5,220,KitKat,Quad-core,32,8,1,5,2,2300,120
+144,Single,IPS,5,220,KitKat,Quad-core,32,8,1,5,2,2330,120
+270,Single,TFT,8,283,Marshmallow,Quad-core,256,16,3,8.1,2.2,3100,380
+152,Dual,IPS,5.2,424,Marshmallow,Quad-core,256,16,3,20.7,2.2,3200,400
+170.6,Single,IPS,5.2,424,Lollipop,Quad-core,256,32,3,20.7,2.2,3100,370
+152,Single,IPS,5.2,424,Marshmallow,Quad-core,256,16,3,20.7,2.2,2600,300
+129,Single,IPS,4.6,319,Marshmallow,Quad-core,256,16,2,20.7,2.2,2300,300
+149.7,Dual,IPS,5.5,267,Lollipop,Quad-core,32,8,1,8,5,2500,250
+149.7,Single,IPS,5.5,267,Lollipop,Quad-core,32,8,1,8,5,3000,190
+148,Single,IPS,5.3,277,KitKat,Quad-core,32,8,1,8,1.1,420,200
+439,Single,TFT,10.1,224,Lollipop,Quad-core,64,16,3,8.1,2.2,6000,350
+426,Single,TFT,10.1,224,Marshmallow,Quad-core,64,16,3,8.1,2.2,3200,380
+163,Single,IPS,5.2,424,Marshmallow,Quad-core,256,16,3,20.7,2.2,1750,260
+171.8,Dual,IPS,6,245,Lollipop,Quad-core,32,8,1,13,1.1,3000,280
+162,Single,TFT,5,441,Lollipop,Quad-core,64,32,2,20.7,2,2300,260
+137,Single,IPS,4.3,342,Lollipop,Quad-core,64,16,2,20.7,2,3000,320
+170,Single,TFT,5,441,Lollipop,Quad-core,64,16,2,20.7,2,3050,330
+212,Single,IPS,6.4,344,Lollipop,Quad-core,64,16,2,8,2,2390,280
+495,Single,Capacitive,10.1,224,Lollipop,Quad-core,64,16,2,8.1,2.2,2330,300
+146,Single,TFT,5,441,Lollipop,Quad-core,64,16,2,13.1,2.2,2370,270
+151,Single,TFT,5,441,Lollipop,Quad-core,64,16,2,13,2,1530,260
+148,Single,TFT,4.55,323,Ice Cream Sandwich,Dual-core,32,16,1,13,1.3,6000,350
+127,Single,TFT,4.55,323,Jelly Bean,Dual-core,32,16,1,13,1.3,1850,330
+139,Single,TFT,4.55,323,Jelly Bean,Dual-core,32,16,1,13,1.3,1750,230
+127,Single,Capacitive,4.6,319,Ice Cream Sandwich,Dual-core,32,16,1,13,1.3,1910,290
+144,Single,Capacitive,4.55,323,Jelly Bean,Dual-core,32,16,1,12,1.3,3080,210
+175,Dual,Capacitive,5,441,Jelly Bean,Quad-core,32,8,1,8,2,2000,160
+196.3,Dual,IPS,5.3,208,Jelly Bean,Quad-core,32,16,1,8,5,2550,210
+170,Dual,IPS,5.5,267,Lollipop,Quad-core,32,8,1,8,5,1850,140
+161,Dual,IPS,5,196,Lollipop,Quad-core,32,8,1,8,5,1900,110
+172,Dual,IPS,5.5,267,Lollipop,Quad-core,32,8,1,8,5,1800,140
+130,Dual,IPS,4.5,218,KitKat,Quad-core,64,8,1,8,1.3,800,160
+112,Dual,IPS,5,196,KitKat,Quad-core,32,8,1,8,2,2300,130
+135,Dual,TFT,5,294,KitKat,Quad-core,32,8,1,8,5,1400,180
+140,Single,IPS,5,196,KitKat,Quad-core,64,4,1,8,2,1400,180
+154,Dual,IPS,5.5,267,Marshmallow,Octa-core,256,64,4,13,20,1900,280
+154,Dual,IPS,5.5,267,Marshmallow,Octa-core,256,32,4,13,16,4080,270
+154,Dual,IPS,5.5,267,Marshmallow,Octa-core,256,32,4,13,20,4000,250
+183.5,Dual,Super AMOLED,5.7,386,Lollipop,Octa-core,256,64,4,16,16,3000,680
+151,Dual,Super AMOLED,5.2,424,Lollipop,Octa-core,256,64,4,13,16,3000,640
+168,Dual,IPS,5.5,401,Lollipop,Octa-core,256,32,4,13,8,2550,300
+138,Dual,IPS,5,294,Lollipop,Octa-core,256,16,3,13,8,3000,260
+172.5,Dual,Super AMOLED,5.7,386,Lollipop,Octa-core,256,64,4,16,8,2400,410
+140.5,Dual,Super AMOLED,5.2,424,Lollipop,Octa-core,256,64,4,13,8,3600,350
+156,Dual,Super AMOLED,5.5,401,KitKat,Octa-core,256,16,2,13,5,1700,470
+156,Single,IPS,4.7,216,Jelly Bean,Quad-core,256,8,1,8,5,2260,100
+439,Single,IPS,10.1,224,Marshmallow,Octa-core,256,16,2,5,2,2000,190
+150,Single,IPS,5.5,401,Marshmallow,Octa-core,256,16,2,13,5,2540,160
+128,Single,IPS,5,293,Marshmallow,Quad-core,256,8,1,8,5,1400,100
+146,Single,IPS,4.5,218,Lollipop,Quad-core,32,8,1,5,2,3000,70
+159,Single,IPS,5.5,401,Lollipop,Octa-core,64,16,2,13,5,4600,170
+155,Single,IPS,5,294,Lollipop,Quad-core,64,8,1,8,2,1400,110
+141,Single,IPS,4.5,218,KitKat,Quad-core,32,4,1,5,2,1300,130
+175,Single,IPS,5,294,KitKat,Quad-core,32,8,1,8,2,2000,160
+124,Dual,IPS,4.7,312,KitKat,Octa-core,32,8,1,8,5,2000,200
+119,Single,IPS,4.7,312,KitKat,Quad-core,32,4,1,8,5,2350,200
+131.5,Dual,IPS,5,296,Marshmallow,Quad-core,256,16,2,13,5,4100,110
+156,Dual,IPS,5,296,Marshmallow,Octa-core,256,16,2,13,5,4100,130
+156,Dual,IPS,5,441,Marshmallow,Octa-core,256,32,3,13,5,4400,160
+144,Dual,IPS,5,294,Marshmallow,Octa-core,256,32,2,13,5,4100,170
+144,Dual,IPS,5,294,Marshmallow,Octa-core,256,32,3,13,5,4100,150
+144,Dual,IPS,5,294,Marshmallow,Octa-core,256,16,2,13,5,4100,120
+144,Dual,IPS,5,294,Lollipop,Octa-core,256,32,3,13,5,3000,250
+133,Dual,IPS,5,441,Lollipop,Hexa-core,256,64,3,13,5,4050,220
+144,Dual,IPS,5,294,Lollipop,Octa-core,256,16,2,13,5,3100,160
+185,Dual,IPS,5.5,267,KitKat,Quad-core,32,16,2,13,5,6190,140
+133,Dual,IPS,4.7,312,Lollipop,Quad-core,32,16,2,8,2,3120,120
+133,Dual,IPS,4.7,312,KitKat,Quad-core,32,8,1,8,2,3080,130
+185,Single,IPS,5.5,267,KitKat,Quad-core,64,8,2,13,5,3080,160
+360,Single,IPS,7.9,326,KitKat,Quad-core,256,16,2,8,5,3100,240
+158,Dual,IPS,4.7,312,KitKat,Quad-core,64,8,1,8,1.6,2000,90
+158,Dual,IPS,4.7,312,Jelly Bean,Quad-core,32,4,1,8,1.3,2030,100
+140,Single,IPS,4.3,342,Jelly Bean,Dual-core,32,8,1,8,1,4100,190
+143.5,Dual,IPS,4.5,245,Jelly Bean,Quad-core,32,4,1,8,1,1400,100
+180,Dual,IPS,5.5,267,Jelly Bean,Quad-core,32,8,1,13,2,1800,160
+138,Dual,TFT,4.7,312,Jelly Bean,Quad-core,32,4,1,8,2,1900,120
+151.3,Dual,IPS,4.5,245,Jelly Bean,Quad-core,32,4,1,8,2,4000,120
+167,Single,IPS,4.7,312,Jelly Bean,Quad-core,32,4,1,8,2,2000,170
+171.1,Dual,IPS,5,294,KitKat,Quad-core,32,4,1,8,1.2,2100,150
+143.5,Dual,IPS,4.5,245,Jelly Bean,Quad-core,32,4,1,8,1,2400,130
+152,Dual,IPS,5,441,Marshmallow,Octa-core,64,32,4,13,8,2000,9000
+128,Dual,IPS,4.7,312,Lollipop,Quad-core,32,8,2,8,2,3000,80
+172,Dual,IPS,5.5,401,Lollipop,Octa-core,256,32,4,13,5,4000,180
+159,Dual,IPS,5.2,565,Lollipop,Octa-core,256,32,4,21,8,2000,420
+128,Dual,IPS,4.7,312,Lollipop,Quad-core,32,8,1,8,2,2230,70
+155,Dual,IPS,5.5,267,Lollipop,Octa-core,32,16,2,13,5,500,130
+136,Dual,IPS,5,294,Nougat,Octa-core,256,16,2,8,5,5000,170
+189,Dual,IPS,5.5,401,Marshmallow,Octa-core,256,32,4,13,8,3000,200
+158,Dual,IPS,5.2,424,Marshmallow,Octa-core,256,64,4,23,13,2705,270
+153,Dual,AMOLED,5.2,423,Nougat,Octa-core,256,32,3,16,8,3000,270
+190,Dual,IPS,5.5,401,Marshmallow,Octa-core,256,32,3,13,13,4000,230
+185,Dual,Super AMOLED,6,368,Lollipop,Octa-core,256,64,4,16,8,3250,360
+175,Dual,AMOLED,5.5,538,Nougat,Quad-core,256,64,4,20,8,3000,410
+138,Dual,IPS,5,441,Lollipop,Octa-core,256,64,3,16,8,2150,250
+160,Dual,Capacitive,5,294,Lollipop,Quad-core,32,8,1,8,2,3000,90
+130,Dual,IPS,5.2,282,Marshmallow,Quad-core,256,16,2,13,5,4000,170
+135,Dual,IPS,5,294,Marshmallow,Octa-core,256,16,2,13,5,2500,130
+135,Dual,Super AMOLED,5.2,424,Lollipop,Octa-core,256,64,3,13,8,3080,390
+160,Dual,IPS,5.5,401,Lollipop,Octa-core,256,16,2,13,5,2400,170
+131,Dual,IPS,5,441,Lollipop,Octa-core,64,32,3,13,13,2800,280
+170.1,Single,IPS,5.5,267,Marshmallow,Quad-core,64,16,2,8,2,3000,130
+149,Single,IPS,4.5,218,KitKat,Quad-core,32,8,1,5,2,2100,110
+154,Dual,IPS,4.5,218,Lollipop,Quad-core,32,8,1,8,5,2900,70
+139.3,Dual,IPS,5.5,267,Lollipop,Octa-core,64,16,2,13,5,2900,280
+147,Dual,IPS,5,441,Lollipop,Octa-core,256,16,2,16,8,2200,170
+154,Dual,IPS,5,294,Lollipop,Octa-core,64,16,2,13,5,2300,220
+136.1,Single,TFT,4.5,245,KitKat,Quad-core,32,8,1,5,2,2500,80
+120,Single,IPS,5.5,401,Jelly Bean,Quad-core,32,16,2,13,5,2300,180
+189.9,Single,TFT,5.7,258,KitKat,Quad-core,32,16,2,8,1.6,2300,200
+117.9,Single,IPS,4.7,312,Jelly Bean,Quad-core,32,16,2,13,5,3000,210
+160,Dual,Capacitive,5.5,403,KitKat,Quad-core,64,32,2,13,5,2300,240
+143,Dual,Capacitive,5,445,KitKat,Quad-core,64,16,2,13,5,2000,180
+150,Single,IPS,5.5,401,Jelly Bean,Quad-core,32,16,2,13,2,2300,250
+120,Single,IPS,4.7,312,Jelly Bean,Quad-core,32,16,2,13,5,2300,230
+127.6,Single,IPS,4.5,326,Jelly Bean,Dual-core,64,8,1,8,1,1800,150
+154,Single,IPS,5,294,Jelly Bean,Dual-core,64,8,1,13,1,2000,270
+163,Dual,TFT,5,294,Jelly Bean,Quad-core,32,4,1,8,1.3,1600,200
+189,Single,TFT,5.7,258,Jelly Bean,Quad-core,32,16,2,13,1,1200,340
+110,Single,IPS,5,441,Jelly Bean,Quad-core,32,16,2,13,2,1730,430
+110,Single,TFT,4.5,326,Ice Cream Sandwich,Quad-core,32,4,1,8,1.3,1600,380
+151,Single,Capacitive,4.3,256,Ice Cream Sandwich,Dual-core,32,4,1,8,1.3,1600,340
