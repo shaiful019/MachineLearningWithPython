@@ -1,0 +1,32 @@
+# Kaggle Competition Guide
+
+## Introduction to Kaggle
+- Overview of Kaggle platform
+- Getting Started competitions
+- Setting Up Kaggle Account
+- Understanding Kaggle notebooks (Kernels)
+- Understanding Competition Components
+   - Problem statement
+   - Evaluation metrics
+   - Data description
+   - Submission format
+   - Prize details (if any)
+
+- Data Handling
+   - Downloading competition datasets
+   - Data exploration techniques
+   - Data preprocessing steps
+   - Feature engineering approaches
+
+- Model Development
+   - Baseline model creation
+   - Model improvement strategies
+   - Cross-validation techniques
+
+- Making Submissions
+   - Generating prediction files
+   - Formatting submissions correctly
+   - Checking submission scores
+   - Interpreting leaderboard positions
+
+Note: This hands-on session provides practical experience in participating in Kaggle competitions, from platform introduction to successful submission of results. 
